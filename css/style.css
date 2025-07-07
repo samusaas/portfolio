@@ -40,4 +40,7 @@ header nav ul li a {
    section.banner button {
     background-color: #FF6464;
     color: white;
+    border: none;
+    border-radius: 1px ;
+    padding: 4px 8px 4px 8px;
    }
